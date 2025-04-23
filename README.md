@@ -77,13 +77,13 @@ java -cp src Main 8888 -1
 
 ---
 
- Notes
+ ## Notes
 Port 8888 is just an example — use any free port.
 All messages are sent as raw strings over UDP.
 The average returned is an integer (rounded down using Math.floor()).
 Ensure your system/firewall allows UDP on chosen port.
 
 
-Author
+## Author
 Vladislav Dobriyan
 GitHub: @Desstori15
